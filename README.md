@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Suhas Reddy 👋
 
-<!--
-**Suhasreddypindi/Suhasreddypindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at CBIT
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in Software Development
+- Learning C++, DSA and Competitive Programming
+- Exploring Git, GitHub and Open Source
+- Building projects to strengthen programming fundamentals
+
+## Technologies
+
+- C++
+- C
+- Git
+- GitHub
+
+## Certifications
+
+- NPTEL - Getting Started with Competitive Programming
+- Git & GitHub Workshop
+- ServiceNow Micro-Certification
+- Fundamentals of Prompt Engineering
+
+## Current Focus
+
+🚀 Building a Competitive Programming Tracker in C++
+
+## Connect With Me
+
+- LinkedIn: linkedin.com/in/suhas-reddy-pindi-6ab013393
