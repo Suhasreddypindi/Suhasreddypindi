@@ -16,12 +16,13 @@
 - Git
 - GitHub
 
-## Certifications
+## Projects
 
-- NPTEL - Getting Started with Competitive Programming
-- Git & GitHub Workshop
-- ServiceNow Micro-Certification
-- Fundamentals of Prompt Engineering
+🚀 Competitive Programming Tracker (In Progress)
+
+Upcoming:
+- DSA Practice Repository
+- Additional C++ Projects
 
 ## Current Focus
 
